@@ -1,0 +1,8 @@
+{
+  "name": "MG Topup Online",
+  "description": "MG Topup Online - Free Fire Diamond & Game Topup Platform with automated bKash, Nagad & Rocket add-money system, popup announcement controls, and full admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
